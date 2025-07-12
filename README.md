@@ -68,6 +68,8 @@ Undo successful: Last operation reverted.
 Enter your choice: 4
 Current Inventory:
 ID: P001 | Name: Apple | Quantity: 150
+
+```
 💻 Technologies Used
 🧠 Java (JDK 11 or higher)
 
